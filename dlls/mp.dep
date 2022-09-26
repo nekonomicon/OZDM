@@ -1,0 +1,1547 @@
+# Microsoft Developer Studio Generated Dependency File, included by mp.mak
+
+.\airtank.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\animating.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\animation.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\animation.cpp : \
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	"..\engine\studio.h"\
+	"..\utils\common\mathlib.h"\
+	".\activity.h"\
+	".\activitymap.h"\
+	".\animation.h"\
+	".\enginecallback.h"\
+	".\monsterevent.h"\
+	".\scriptevent.h"\
+	
+
+.\bmodels.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\doors.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\buttons.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\doors.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\cbase.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\client.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\client.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\client.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\grapple.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\soundent.h"\
+	".\spectator.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\combat.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\animation.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\func_break.h"\
+	".\game.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\soundent.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\crossbow.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\crowbar.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\doors.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\doors.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\effects.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\customentity.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	"..\engine\shake.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\func_break.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\egon.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\customentity.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\explode.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\explode.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\func_break.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\explode.h"\
+	".\extdll.h"\
+	".\func_break.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\func_tank.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\explode.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\game.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\gamerules.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\teamplay_gamerules.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\gauss.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	"..\engine\shake.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\soundent.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\ggrenade.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\soundent.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\globals.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\soundent.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\glock.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\grapple.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\grapple.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\h_ai.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\h_battery.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\h_cycler.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\animation.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\h_export.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\handgrenade.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\healthkit.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\items.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\hornet.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\hornet.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\soundent.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\hornetgun.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\hornet.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\ini.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\items.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\items.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\lights.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\maprules.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\maprules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\mortar.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\soundent.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\mp5.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\soundent.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\mpstubb.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\soundent.h"\
+	".\talkmonster.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\multiplay_gamerules.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\items.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\pathcorner.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\trains.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\plane.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\plane.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\plats.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\trains.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\player.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	"..\engine\shake.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\grapple.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\soundent.h"\
+	".\trains.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\python.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\rpg.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\satchel.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\shotgun.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\singleplay_gamerules.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\items.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\skill.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\sound.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\talkmonster.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\soundent.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\soundent.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\spectator.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\spectator.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\squeakgrenade.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\soundent.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\subs.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\doors.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\nodes.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\teamplay_gamerules.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\teamplay_gamerules.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\triggers.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\trains.h"\
+	".\util.h"\
+	".\vector.h"\
+	
+
+.\tripmine.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\util.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	"..\engine\shake.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\weapons.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\decals.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\monsters.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\soundent.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\world.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\client.h"\
+	".\decals.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\game.h"\
+	".\gamerules.h"\
+	".\monsterevent.h"\
+	".\nodes.h"\
+	".\player.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\skill.h"\
+	".\soundent.h"\
+	".\teamplay_gamerules.h"\
+	".\util.h"\
+	".\vector.h"\
+	".\weapons.h"\
+	
+
+.\xen.cpp : \
+	"..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\engine\const.h"\
+	"..\engine\custom.h"\
+	"..\engine\cvardef.h"\
+	"..\engine\eiface.h"\
+	"..\engine\progdefs.h"\
+	"..\engine\progs.h"\
+	".\activity.h"\
+	".\animation.h"\
+	".\basemonster.h"\
+	".\cbase.h"\
+	".\cdll_dll.h"\
+	".\effects.h"\
+	".\enginecallback.h"\
+	".\extdll.h"\
+	".\monsterevent.h"\
+	".\saverestore.h"\
+	".\schedule.h"\
+	".\util.h"\
+	".\vector.h"\
+	
